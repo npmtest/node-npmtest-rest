@@ -1,7 +1,10 @@
-# test coverage for  [rest (v2.0.0)](https://github.com/cujojs/rest#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rest.svg)](https://travis-ci.org/npmtest/node-npmtest-rest)
+# npmtest-rest
+
+#### test coverage for  [rest (v2.0.0)](https://github.com/cujojs/rest#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rest.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rest) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rest.svg)](https://travis-ci.org/npmtest/node-npmtest-rest)
+
 #### RESTful HTTP client library
 
-[![NPM](https://nodei.co/npm/rest.png?downloads=true)](https://www.npmjs.com/package/rest)
+[![NPM](https://nodei.co/npm/rest.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rest)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-rest/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rest/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rest/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rest/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rest/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rest/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-rest/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-rest/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rest/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-rest/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-rest%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rest/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rest/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-rest/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rest/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-rest%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rest/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-rest/build/test-report.html](https://npmtest.github.io/node-npmtest-rest/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-rest/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rest/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-rest/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rest/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rest/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rest/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-rest/build/screenCapture.npmPackageListing.svg)
 
@@ -32,8 +41,7 @@
     },
     "contributors": [
         {
-            "name": "Jeremy Grelle",
-            "email": "jeremy.grelle@gmail.com"
+            "name": "Jeremy Grelle"
         },
         {
             "name": "John Hann",
@@ -76,13 +84,11 @@
     "main": "./node",
     "maintainers": [
         {
-            "name": "scothis",
-            "email": "scothis@gmail.com"
+            "name": "scothis"
         }
     ],
     "name": "rest",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/cujojs/rest.git"
